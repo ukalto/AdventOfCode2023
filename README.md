@@ -2,7 +2,7 @@
 
 |Day|Name|Status|
 |---|---|---|
-[Day 1](https://github.com/ukalto/AdventOfCode2022/blob/main/Day01/day01/src/day01.rs)|Trebuchet?!||
+[Day 1](https://github.com/ukalto/AdventOfCode2022/blob/main/Day01/day01/src/day01.rs)|Trebuchet?!|⭐ ⭐|
 [Day 2](https://github.com/ukalto/AdventOfCode2022/blob/main/Day02/day02/src/day02.rs)|||
 [Day 3](https://github.com/ukalto/AdventOfCode2022/blob/main/Day03/day03/src/day03.rs)|||
 [Day 4](https://github.com/ukalto/AdventOfCode2022/blob/main/Day04/day04/src/day04.rs)|||
