@@ -44,10 +44,8 @@ fn calc_second(line: &str, digit_map: &HashMap<&str, i32>) -> i32 {
 }
 
 fn main() -> Result<(), Box<dyn Error>> {
-    // Create a path to the desired file
     let path = Path::new("../day01.txt");
 
-    // Define a mapping of spelled-out digits to their numeric values
     let digit_map: HashMap<&str, i32> = [
         ("one", 1),
         ("two", 2),
@@ -63,7 +61,6 @@ fn main() -> Result<(), Box<dyn Error>> {
     .cloned()
     .collect();
 
-    // Open the path in read-only mode, returns `io::Result<File>`
     let file = File::open(&path)?;
     let mut part1sum = 0;
     let mut part2sum = 0;
@@ -82,6 +79,3 @@ fn main() -> Result<(), Box<dyn Error>> {
 
     Ok(())
 }
-
-
-
