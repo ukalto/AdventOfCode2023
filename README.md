@@ -1,11 +1,11 @@
 # AdventOfCode2023
 
 |Day|Name|Status|
-|---|---|---|
+|---|---|--|
 [Day 1](https://github.com/ukalto/AdventOfCode2023/blob/main/Day01/day01/src/main.rs)|Trebuchet?!|⭐ ⭐|
 [Day 2](https://github.com/ukalto/AdventOfCode2023/blob/main/Day02/day02/src/main.rs)|Cube Conundrum|⭐ ⭐|
-[Day 3](https://github.com/ukalto/AdventOfCode2023/blob/main/Day03/day03/src/main.rs)|||
-[Day 4](https://github.com/ukalto/AdventOfCode2023/blob/main/Day04/day04/src/main.rs)|||
+[Day 3](https://github.com/ukalto/AdventOfCode2023/blob/main/Day03/day03/src/main.rs)|Gear Ratios||
+[Day 4](https://github.com/ukalto/AdventOfCode2023/blob/main/Day04/day04/src/main.rs)|Scratchcards |⭐|
 [Day 5](https://github.com/ukalto/AdventOfCode2023/blob/main/Day05/day05/src/main.rs)|||
 [Day 6](https://github.com/ukalto/AdventOfCode2023/blob/main/Day06/day06/src/main.rs)|||
 [Day 7](https://github.com/ukalto/AdventOfCode2023/blob/main/Day07/day07/src/main.rs)|||
